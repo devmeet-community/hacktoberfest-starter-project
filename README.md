@@ -27,7 +27,7 @@ A month-long celebration from October 1st - 31st sponsored by `Digital Ocean` an
 - Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/fineanmol/hacktoberfest.git
+git clone https://github.com/devmeet-community/hacktoberfest-starter-project.git
 ```
 
 - Create a branch
