@@ -25,4 +25,4 @@ Gyan ganga institution of technology and science
 
 ### Profile Link
 
-[Your Name](GitHub Link)
+[Om Patel](https://github.com/om453)
